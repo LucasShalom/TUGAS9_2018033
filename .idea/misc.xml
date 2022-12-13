@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID/TUGAS8_2018033-main/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1" />
+        <entry key="..\:/ANDROID/TUGAS8_2018033-main/app/src/main/res/layout/activity_display_data.xml" value="0.1" />
+        <entry key="..\:/ANDROID/TUGAS8_2018033-main/app/src/main/res/layout/activity_main.xml" value="0.1265625" />
+        <entry key="..\:/ANDROID/TUGAS8_2018033-main/app/src/main/res/layout/fragment_database.xml" value="0.22826086956521738" />
+        <entry key="..\:/ANDROID/TUGAS8_2018033-main/app/src/main/res/layout/hotel_database.xml" value="0.12552083333333333" />
+        <entry key="..\:/ANDROID/TUGAS8_2018033-main/app/src/main/res/menu/draw_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/ANDROID/TUGAS8_2018033-main/app/src/main/res/menu/flow_menu.xml" value="0.1" />
+        <entry key="..\:/Pertemuan4_ActionBar2/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1" />
+        <entry key="..\:/Pertemuan4_ActionBar2/app/src/main/res/drawable/ic_baseline_perm_identity_24.xml" value="0.2365" />
+        <entry key="..\:/Pertemuan4_ActionBar2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Pertemuan4_ActionBar2/app/src/main/res/layout/fragment_TOC.xml" value="0.21422101449275363" />
+        <entry key="..\:/Pertemuan4_ActionBar2/app/src/main/res/layout/fragment_chat.xml" value="0.21422101449275363" />
+        <entry key="..\:/Pertemuan4_ActionBar2/app/src/main/res/layout/fragment_collections.xml" value="0.21422101449275363" />
+        <entry key="..\:/Pertemuan4_ActionBar2/app/src/main/res/layout/fragment_collections1.xml" value="0.21422101449275363" />
+        <entry key="..\:/Pertemuan4_ActionBar2/app/src/main/res/layout/fragment_help.xml" value="0.21422101449275363" />
+        <entry key="..\:/Pertemuan4_ActionBar2/app/src/main/res/layout/fragment_message.xml" value="0.21422101449275363" />
+        <entry key="..\:/Pertemuan4_ActionBar2/app/src/main/res/layout/fragment_notif.xml" value="0.21422101449275363" />
+        <entry key="..\:/Pertemuan4_ActionBar2/app/src/main/res/layout/fragment_payments.xml" value="0.21422101449275363" />
+        <entry key="..\:/Pertemuan4_ActionBar2/app/src/main/res/layout/fragment_profile.xml" value="0.21422101449275363" />
+        <entry key="..\:/Pertemuan4_ActionBar2/app/src/main/res/layout/nav_header.xml" value="0.21422101449275363" />
+        <entry key="..\:/Pertemuan4_ActionBar2/app/src/main/res/menu/draw_menu.xml" value="0.23020833333333332" />
+        <entry key="..\:/TUGAS8_2018033-main/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/TUGAS8_2018033-main/app/src/main/res/layout/activity_restapi.xml" value="0.22826086956521738" />
+        <entry key="..\:/TUGAS8_2018033-main/app/src/main/res/menu/draw_menu.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_notif"
+            android:icon="@drawable/ic_baseline_notifications_none_24"
+            android:title="Notification about your Hotel" />
+        <item
+            android:id="@+id/nav_payment"
+            android:icon="@drawable/ic_baseline_payment_24"
+            android:title="Payments &amp; Subscriptions" />
+        <item
+            android:id="@+id/nav_collections"
+            android:icon="@drawable/ic_baseline_collections_24"
+            android:title="Your Favorite Hotel" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_baseline_help_24"
+            android:title="Help and Feedbacks" />
+        <item
+            android:id="@+id/nav_TOC"
+            android:icon="@drawable/ic_baseline_local_police_24"
+            android:title="Privacy Policy and TOC"
+            />
+        <item
+            android:id="@+id/nav_database"
+            android:icon="@drawable/ic_baseline_folder_24"
+            android:title="Database"
+            />
+        <item
+            android:id="@+id/nav_API"
+            android:icon="@drawable/ic_baseline_api_24"
+            android:title="RESTAPI"
+            />
+    </group>
+</menu>

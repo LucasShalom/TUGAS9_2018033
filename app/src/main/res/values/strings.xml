@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pertemuan4_ActionBar</string>
+    <string name="navigation_drawer_open">Open Navigation
+Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation
+Drawer</string>
+    <string name="deskripsi_hotel">Address: Komplek, Jl. Bukit Panderman Hill Jl. Cherry No.10, Temas, Kec. Batu, Jawa Timur 65314</string>
+    <string name="details">Phone: (0341) 3302000</string>
+    <string name="deskripsi">Overlooking Mount Kawi, this polished, modern hotel is 3 km from Jawa Timur Park 1 theme park. Featuring balconies, the refined rooms offer free Wi-Fi and flat-screen TVs; some have mountain views. Room service is available. Amenities include a restaurant, a bar and a coffee shop,. There are also indoor and outdoor pools, plus a spa, and a gym with a modern spiral staircase. Banquet facilities seat 2,000 people. Breakfast is available.</string>
+    <string name="price">HARGA</string>
+    <string name="Harga_hotel">700.000</string>
+</resources>
